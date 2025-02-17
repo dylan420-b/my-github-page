@@ -1,1 +1,5 @@
+cd path/to/your/folder
+git init
+git add index.html
 
+git commit -m "Initial commit: Added simple HTML page"
